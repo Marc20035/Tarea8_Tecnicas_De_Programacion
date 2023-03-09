@@ -1,6 +1,6 @@
 # Tarea8_Tecnicas_De_Programacion
 # Notas:
-* Este es mi repositorio
+* Este es mi repositorio: https://github.com/Marc20035/Tarea8_Tecnicas_De_Programacion.git
 # Ejercicios: 
 ## 1. La guerra de dados
 Requisitos previos: Ejercicio 1 del capítulo La programación orientada a objetos
